@@ -1,0 +1,7 @@
+C:\Users\FAMILIA CHURA MERIDA\Downloads\Dibupndj-main\Dibupndj-main\Ej 1 Parte 5\bin\Debug\Ej 1 Parte 5.exe.config
+C:\Users\FAMILIA CHURA MERIDA\Downloads\Dibupndj-main\Dibupndj-main\Ej 1 Parte 5\bin\Debug\Ej 1 Parte 5.exe
+C:\Users\FAMILIA CHURA MERIDA\Downloads\Dibupndj-main\Dibupndj-main\Ej 1 Parte 5\bin\Debug\Ej 1 Parte 5.pdb
+C:\Users\FAMILIA CHURA MERIDA\Downloads\Dibupndj-main\Dibupndj-main\Ej 1 Parte 5\obj\Debug\Ej 1 Parte 5.csproj.AssemblyReference.cache
+C:\Users\FAMILIA CHURA MERIDA\Downloads\Dibupndj-main\Dibupndj-main\Ej 1 Parte 5\obj\Debug\Ej 1 Parte 5.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA CHURA MERIDA\Downloads\Dibupndj-main\Dibupndj-main\Ej 1 Parte 5\obj\Debug\Ej 1 Parte 5.exe
+C:\Users\FAMILIA CHURA MERIDA\Downloads\Dibupndj-main\Dibupndj-main\Ej 1 Parte 5\obj\Debug\Ej 1 Parte 5.pdb
